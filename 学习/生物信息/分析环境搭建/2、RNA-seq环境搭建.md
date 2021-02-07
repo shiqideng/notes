@@ -1,4 +1,5 @@
 # RNA-seq环境搭建
+
 ## 1、conda创建环境
 
 使用 conda创建一个rna环境，Python建议设置为2.x版本
