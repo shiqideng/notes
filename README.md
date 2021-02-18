@@ -5,7 +5,8 @@ Bioinformatics Notes, WeChat Article , Video record and Job record
 
 
 ### 公众号内容
-
++ PCR技术
+  + 原位PCR
 + 体液
   + 血液组成
   + 尿液组成
