@@ -39,7 +39,6 @@
 [3] 秦鄂德,祝庆余,于曼等.SARS相关病毒(BJ01株)的全序列及其比较分析[J].科学通报,2003(11):1127-1134.
 [4] Rota P A ,  M Steven O ,  Monroe S S , et al. Characterization of a novel coronavirus associated with severe acute respiratory syndrome[J]. Science (New York, N.Y.), 2020, 2003年300卷5624期(5624):1394-9页.
 [5] Marra,  Marco A , Jones, et al. The Genome Sequence of the SARS-Associated Coronavirus.[J]. Science, 2003.
-
 ```
 
 
